@@ -7,5 +7,5 @@ function validaFormulario(){
   document.getElementById("telefone").value != ""){
     alert("Prontinho! Você receberá as novidades por email!")
   }else{
-    alert("Por favor, preencha os campos de nome e email (:")
+    alert("Por favor, preencha os campos de nome, email e telefone (:")
 }}
